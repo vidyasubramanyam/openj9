@@ -1,3 +1,3 @@
 node {
-    sh 'echo "hello, hi"'
+    sh 'echo "hello vidya"'
 }
