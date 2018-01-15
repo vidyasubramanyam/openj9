@@ -72,4 +72,4 @@ Videos and Presentations
 - [JavaOne 2017: Ask the OpenJ9 Architects](https://www.youtube.com/watch?v=qb5ennM_pgc)
 
 
-Copyright (c) 2017, 2017 IBM Corp. and others
+Copyright (c) 2017, 2017 IBM Corp. and others...
